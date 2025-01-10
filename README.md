@@ -1,56 +1,66 @@
-<h2>
-    "><script>alert("Welcome To My Coding & Hacking MindCastle")</script>//
-</h2>
+##  "><script>al\u0065rt("Welcome To My Coding & Hacking MindCastle")</script>//
 
-## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **Recon MySelf**
-
-<br>
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Josefin&size=19&duration=3000&pause=1500&width=800&height=100&lines=I+hope+this+is+the+invention+that+will+make+war+impossible.+Nikola-Tesla;Artists+use+lies+to+tell+the+truth.+V-For-Venteda;I+happen+to+be+notorious.+That%2C+I+have+no+control+over.+Kevin-Mitnick;Innovation+distinguishes+between+a+leader+and+a+follower.+Steve-Jobs" alt="Typing SVG" />
 
-<br>
+<img src="./Hashtag_AMIN_Logo.webp" style="width:500px; height:500px">
 
-<img align="right" weight="800px" height="333px" alt="Activity Graph" src="https://camo.githubusercontent.com/969ba67430580b5aeadad5ae0ec7dd6a6a57bb36bbc1b59960a80a35a749c85b/68747470733a2f2f632e74656e6f722e636f6d2f77686751774e6c56764e6b41414141692f7865726f2d636f64652e676966" />
+</div>
 
-- Learning Red Team Operation & Adversary Emulation
+## 👋 About Me
 
-- Bug Hunter
+Welcome to my mindcastle of coding and hacking! I'm **Hashtag-AMIN**, a passionate developer and cybersecurity enthusiast diving deep into the realms of technology, creativity, and innovation. I believe in making the impossible possible through code and collaboration.
 
-- Python give me soul satisfaction
+- 🛡️ **Cybersecurity Enthusiast**
+  - Focused on web Attacks, API and mobile App
+  - Learn Red Team Operations & Adversary Emulation.
+  - Free time play and test in lab with ICS protocols
+- 🐞 **Bug Hunter**: Identifying vulnerabilities to enhance software security and assay my skills.
+- 🧠 **Lifelong Learner**: Currently exploring advanced web Attack and mobile App pentesting.
+- 🎵 **Creative Mind**: Hip-hop, rap, and gymnastic creativity fuel my passion.
 
-- Linux is my close friend ,But windows Just friend :)
 
-- HipHop & Rap is Knot with my brain
+## 🛠️ My Skill
 
-- Gymnastic make me creative
+![Cybersecurity](https://img.shields.io/badge/-Cybersecurity-FF5733?style=flat&logo=hack-the-box&logoColor=white)
+![OWASP](https://img.shields.io/badge/-OWASP-000000?style=flat&logo=owasp&logoColor=white)
+![API Security](https://img.shields.io/badge/-API%20Security-FFA500?style=flat&logo=api&logoColor=white)
+![ICS Security](https://img.shields.io/badge/-ICS%20Security-1E90FF?style=flat&logo=security&logoColor=white)
+![Red Team](https://img.shields.io/badge/-Red%20Team-FF0000?style=flat&logo=cybersecurity&logoColor=white)
+![Adversary Emulation](https://img.shields.io/badge/-Adversary%20Emulation-8A2BE2?style=flat&logo=target&logoColor=white)
+![Mobile Security](https://img.shields.io/badge/-Mobile%20Security-FF4500?style=flat&logo=owasp&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![Shell](https://img.shields.io/badge/-Bash-blueviolet?style=flat-square&logo=gnu-bash&logoColor=white)
+![RegEx](https://img.shields.io/badge/-RegEx-FF4500?style=flat&logo=regex&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/-PHP-777BB4?style=flat&logo=php&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![Django](https://img.shields.io/badge/-Django-092E20?style=flat&logo=django&logoColor=white)
+![Flask](https://img.shields.io/badge/-Flask-832020?style=flat&logo=flask&logoColor=white)
+![WordPress](https://img.shields.io/badge/-WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Nginx](https://img.shields.io/badge/-Nginx-green?style=flat-square&logo=nginx&logoColor=white)
+![LPIC 100](https://img.shields.io/badge/-LPIC%20100-000000?style=flat&logo=linux&logoColor=white)
+![LPIC 200](https://img.shields.io/badge/-200-000000?style=flat&logo=linux&logoColor=white)
+![LPIC 300](https://img.shields.io/badge/-300-000000?style=flat&logo=linux&logoColor=white)
+![CCNA](https://img.shields.io/badge/-CCNA-blue?style=flat-square&logo=cisco&logoColor=white)
+![CCNP(R&S)](https://img.shields.io/badge/-CCNP(R&S)-darkblue?style=flat-square&logo=cisco&logoColor=white)
+![MCSE](https://img.shields.io/badge/-MCSA-928B22?style=flat&logo=microsoft&logoColor=white)
+![MCSE](https://img.shields.io/badge/-MCSE-228B22?style=flat&logo=microsoft&logoColor=white)
 
-<br>
+<div align="center">
 
-<br>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hashtag-AMIN&layout=compact&theme=radical)
 
-<br>
+</div>
 
----
+## 📫 Connect with Me
 
-<br>
-
-<br>
-
-<h2>🔧 &nbsp; Skills </h2>
-
-- ***Linux*** <img align="center" style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" />
-
-    - <img src="https://img.shields.io/static/v1?label=&labelColor=505050&message=Kali%20Linux&color=%230076D6&style=flat&logo=kali-linux&logoColor=black"> <img src="https://img.shields.io/static/v1?label=&labelColor=orange&message=Ubuntu&color=red&style=flat&logo=ubuntu&logoColor=black"> <img src="https://img.shields.io/static/v1?label=&labelColor=lightblue&message=Docker&color=blue&style=flat&logo=docker&logoColor=black"> <img src="https://img.shields.io/static/v1?label=&labelColor=506050&message=Nginx&color=green6&style=flat&logo=nginx&logoColor=green" alt="img"> <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=blueviolet" alt="Bash"> <img src="https://img.shields.io/badge/Postfix-gray.svg?style=flat-square&logo=linux"> <img src="https://img.shields.io/badge/Bind9-gray.svg?style=flat-square&logo=linux"> <img src="https://img.shields.io/badge/Apache2-gray.svg?style=flat-square&logo=linux">
-
-- ***programming*** <img align="center" style="margin: 10px" src="https://freesvg.org/storage/img/thumb/DooFi-Keyboard.png" alt="programming" height="50" />
-
-    - <img src="https://img.shields.io/badge/HTML5-informational?style=flat&logo=html5&logoColor=white&color=blueviolet"> <img src="https://img.shields.io/badge/CSS3-informational?style=flat&logo=css3&logoColor=white&color=violet"> <img src="https://img.shields.io/badge/BootStrap-informational?style=flat&logo=bootstrap&logoColor=white&color=purple"> <img src="https://img.shields.io/badge/-JavaScript-informational?style=flat&logo=javascript&logoColor=white&color=yellow"> <img src="https://img.shields.io/badge/Python-informational?style=flat&logo=python&logoColor=white&color=blue"> <img src="https://img.shields.io/badge/GitHub-Git-informational?style=flat&logo=git&logoColor=white&color=red"> <img src="https://img.shields.io/badge/c++-informational?style=flat&logo=cplusplus&logoColor=white&color=blueviolet"> <img src="https://img.shields.io/badge/PHP-informational?style=flat&logo=php&logoColor=white&color=purple"> <img src="https://img.shields.io/badge/PowerShell-informational?style=flat&logo=powershell&logoColor=white&color=darkblue"> 
-
-- ***Network*** <img align="center" style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Hierarchical_network_model_example.svg/432px-Hierarchical_network_model_example.svg.png" alt="network" height="50" />
-
-    - <img src="https://img.shields.io/static/v1?label=&labelColor=lightblue&message=CCNA&color=blue&style=flat&logo=cisco&logoColor=black"> <img src="https://img.shields.io/static/v1?label=&labelColor=blue&message=CCNP%20(R%26S)&color=lightblue&style=flat&logo=cisco&logoColor=black">
-
-- ***Database*** <img align="center" style="margin: 10px" src="https://uxwing.com/wp-content/themes/uxwing/download/web-app-development/data-mining-icon.svg" alt="database" height="50" />
-
-    -  <img src="https://img.shields.io/static/v1?label=&labelColor=gray&message=MySQL&color=darkblue&style=flat&logo=mysql&logoColor=black"> <img src="https://img.shields.io/static/v1?label=&labelColor=darkblue&message=Mongo&color=gray&style=flat&logo=mongodb&logoColor=black">
-
+- [![X](https://img.shields.io/badge/-X-black?style=flat-square&logo=twitter&logoColor=white)](https://x.com/hashtag_amin)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-darkblue?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/m-amin-karami-976b2528a)
+- [![Telegram](https://img.shields.io/badge/-Telegram-blue?style=flat-square&logo=linkedin&logoColor=white)](https://t.me/hashtag_amin)
+- [![Email](https://img.shields.io/badge/-Email-red?style=flat-square&logo=gmail&logoColor=white)](mailto:hashtagamin90@gmail.com)
